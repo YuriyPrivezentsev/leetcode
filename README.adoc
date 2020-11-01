@@ -1,1 +1,6 @@
-Different solutions to Leetcode challenges
+= Different solutions to Leetcode challenges
+
+== November 2020 challenge
+Package: nov_20_challenge
+
+* **nov01** - Convert Binary Number in a Linked List to Integer
