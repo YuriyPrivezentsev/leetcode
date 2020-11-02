@@ -1,8 +1,8 @@
-package nov_20_challange.nov01;
+package nov_20_challange;
 
 public class ListNode {
-    int val;
-    ListNode next;
+    public int val;
+    public ListNode next;
 
     ListNode() {
     }
