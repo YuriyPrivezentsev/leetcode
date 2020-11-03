@@ -4,3 +4,5 @@
 Package: nov_20_challenge
 
 * **nov01** - Convert Binary Number in a Linked List to Integer
+* **nov02** - Insertion Sort List
+* **nov03** - Consecutive Characters
