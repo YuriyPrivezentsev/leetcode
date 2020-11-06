@@ -6,3 +6,7 @@ Package: nov_20_challenge
 * **nov01** - Convert Binary Number in a Linked List to Integer
 * **nov02** - Insertion Sort List
 * **nov03** - Consecutive Characters
+* **nov04** - Minimum Height Trees
+** _Solution_ - Calculatign subtree. Recursive. Fails on processing time. Probably would fail on memory too
+** _Solution2_ - Weighting edges. Recursive. Fails on memory
+* **nov05** - Minimum Cost to Move Chips to The Same Position
