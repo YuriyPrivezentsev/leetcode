@@ -10,3 +10,4 @@ Package: nov_20_challenge
 ** _Solution_ - Calculatign subtree. Recursive. Fails on processing time. Probably would fail on memory too
 ** _Solution2_ - Weighting edges. Recursive. Fails on memory
 * **nov05** - Minimum Cost to Move Chips to The Same Position
+* **nov06** - Find the Smallest Divisor Given a Threshold
