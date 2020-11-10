@@ -11,3 +11,7 @@ Package: nov_20_challenge
 ** _Solution2_ - Weighting edges. Recursive. Fails on memory
 * **nov05** - Minimum Cost to Move Chips to The Same Position
 * **nov06** - Find the Smallest Divisor Given a Threshold
+* **nov07** - Add Two Numbers II
+* **nov08** - Binary Tree Tilt
+* **nov09** - Maximum Difference Between Node and Ancestor
+* **nov10** - lipping an Image
