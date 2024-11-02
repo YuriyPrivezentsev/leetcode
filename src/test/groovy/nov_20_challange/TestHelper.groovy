@@ -1,5 +1,7 @@
 package nov_20_challange
 
+import tree.TreeNode
+
 class TestHelper {
     @SuppressWarnings('GroovyAssignabilityCheck')
     static ListNode arr2ListNode(List array) {

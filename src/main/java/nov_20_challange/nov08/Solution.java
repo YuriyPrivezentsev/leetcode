@@ -1,6 +1,6 @@
 package nov_20_challange.nov08;
 
-import nov_20_challange.TreeNode;
+import tree.TreeNode;
 
 class Solution {
     public int findTilt(TreeNode root) {

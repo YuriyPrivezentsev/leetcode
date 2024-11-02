@@ -1,6 +1,6 @@
 package nov_20_challange.nov09;
 
-import nov_20_challange.TreeNode;
+import tree.TreeNode;
 
 import static java.lang.Math.*;
 

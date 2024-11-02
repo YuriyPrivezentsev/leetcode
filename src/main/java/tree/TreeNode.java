@@ -1,4 +1,4 @@
-package nov_20_challange;
+package tree;
 
 public class TreeNode {
     public int val;

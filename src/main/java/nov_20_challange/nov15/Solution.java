@@ -1,6 +1,6 @@
 package nov_20_challange.nov15;
 
-import nov_20_challange.TreeNode;
+import tree.TreeNode;
 
 class Solution {
     public int rangeSumBST(TreeNode root, int low, int high) {
